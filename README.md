@@ -9,7 +9,7 @@
 
 ![ok3](https://lh3.googleusercontent.com/kcEl-0gX9VzNF8IPYu6DRLRa4-W6WgfKXfuf7zbG0VXe_TrsnexFu-ZtzpqKoZSGkK6xGAMIBcnIfPcxu9h12Q=s400)
 
-![ok4]([https://qph.cf2.quoracdn.net/main-qimg-9caca2bb7bc446ad3a963dc1325bf580-lq](https://i.pinimg.com/474x/d1/3c/13/d13c1382bdcdce21c33e3cdff5f82190.jpg))
+![ok4](https://i.pinimg.com/474x/d1/3c/13/d13c1382bdcdce21c33e3cdff5f82190.jpg)
 
 
 
