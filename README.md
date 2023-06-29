@@ -1,21 +1,7 @@
 ### Hello! Why do programmers prefer dark mode?
 
 Because light attracts bugs! <h1> ☠☠☠☠☠☠☠☠☠☠☠☠☠☠☠☠☠☠☠☠
-<form>
-<h2>Register<br></h2>
-Email<br>
-<input type="email" name=email size="40"><br><br>
 
-Password<br>
-<input type="password" name=password><br><br>
-
-Confirm password<br>
-<input type="password" name=confirmpassword><br><br>
-
-<input type="submit" class="sbm" value="Submit"><br><br>
-
-
-</form>
 
 ![ok](https://qph.cf2.quoracdn.net/main-qimg-9caca2bb7bc446ad3a963dc1325bf580-lq)
 
