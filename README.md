@@ -1,6 +1,6 @@
 ### Hello! Why do programmers prefer dark mode?
 
-Because light attracts bugs! # ☠☠☠☠☠☠☠☠☠☠☠☠☠☠☠☠☠☠☠☠
+Because light attracts bugs! <h1> ☠☠☠☠☠☠☠☠☠☠☠☠☠☠☠☠☠☠☠☠
 
 
 ![ok](https://qph.cf2.quoracdn.net/main-qimg-9caca2bb7bc446ad3a963dc1325bf580-lq)
