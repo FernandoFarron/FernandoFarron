@@ -9,7 +9,7 @@
 
 ![ok3](https://media.tenor.com/Eom38hjydCsAAAAM/death-funny.gif)
 
-![ok4](https://i.pinimg.com/474x/d1/3c/13/d13c1382bdcdce21c33e3cdff5f82190.jpg)
+![ok4](https://media.baamboozle.com/uploads/images/84156/1648827831_326114_gif-url.gif)
 
 
 
